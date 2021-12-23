@@ -1,10 +1,20 @@
 <?php
     $score = "0"; 
-    $naam = "jouw voornaam";
+    $naam = "Lucien";
+    $leeftijd = "17";
+    $melk = 1.19;
+    
+    str_repeat('&nbsp;', 1); 
 
-    echo  $score ;
+    echo "$score &nbsp";
 
-    echo $naam ;
+    echo "$naam &nbsp";
+
+    echo "$leeftijd &nbsp";
+
+    echo "$melk";
+
+
 
 
 
