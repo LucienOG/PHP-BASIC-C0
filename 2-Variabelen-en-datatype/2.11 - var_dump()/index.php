@@ -2,6 +2,6 @@
 
     $var1 = "a variable";
 
-    var_dump($var1)    
+    var_dump($var1);     
 
 ?>
