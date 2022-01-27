@@ -1,5 +1,5 @@
 <?php
-    zetTweeWoordenAanElkaar(){
+    function zetTweeWoordenAanElkaar(){
         $woordje = 'hallo';
         $zinnetje = 'mooie blauwe planeet!';
         $heleZin = $woordje . " " . $zinnetje;
